@@ -1,0 +1,5 @@
+﻿  KMP.cpp
+g:\workspace\vsworkspace\problem1015\problem1015\kmp.cpp(6): warning C4101: “j”: 未引用的局部变量
+g:\workspace\vsworkspace\problem1015\problem1015\kmp.cpp(53): warning C4101: “i”: 未引用的局部变量
+  problem1015.vcxproj -> G:\Workspace\VSworkspace\problem1015\Debug\problem1015.exe
+  problem1015.vcxproj -> G:\Workspace\VSworkspace\problem1015\Debug\problem1015.pdb (Partial PDB)

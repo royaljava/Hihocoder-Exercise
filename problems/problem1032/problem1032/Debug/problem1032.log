@@ -1,0 +1,6 @@
+﻿  palindronme.cpp
+g:\workspace\vsworkspace\problem1032\problem1032\palindronme.cpp(9): warning C4018: “<”: 有符号/无符号不匹配
+g:\workspace\vsworkspace\problem1032\problem1032\palindronme.cpp(12): warning C4018: “<”: 有符号/无符号不匹配
+g:\workspace\vsworkspace\problem1032\problem1032\palindronme.cpp(51): warning C4101: “b”: 未引用的局部变量
+  problem1032.vcxproj -> G:\Workspace\VSworkspace\problem1032\Debug\problem1032.exe
+  problem1032.vcxproj -> G:\Workspace\VSworkspace\problem1032\Debug\problem1032.pdb (Partial PDB)
